@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e1617c5b-f481-4cf6-be9f-ae481d878df6": {
+      "ProjectGuid": "e1617c5b-f481-4cf6-be9f-ae481d878df6",
+      "DisplayName": "MiniPaint",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
